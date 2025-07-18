@@ -1,6 +1,6 @@
 # Credit Risk Classification Case Study
 
-A comprehensive machine learning project demonstrating loan default prediction with ethical AI considerations.
+A comprehensive machine learning project demonstrating loan default prediction. 
 
 ## Project Highlights
 - **94% accuracy** with optimized KNN model
@@ -19,7 +19,6 @@ A comprehensive machine learning project demonstrating loan default prediction w
 - Successfully handled imbalanced dataset
 - Comprehensive feature engineering
 - Model explainability implementation
-- Ethical AI framework development
 
 ## Getting Started
 1. Clone the repository
