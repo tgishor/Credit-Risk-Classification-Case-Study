@@ -12,7 +12,7 @@ A comprehensive machine learning project demonstrating loan default prediction.
 ## Technologies Used
 - Python, Pandas, NumPy
 - Scikit-learn, SHAP
-- Matplotlib for visualization
+- Matplotlib for visualization       
 - Jupyter Notebooks
 
 ## Key Results
