@@ -1,6 +1,6 @@
 # Credit Risk Classification Case Study
 
-A comprehensive machine learning project demonstrating loan default prediction. 
+A comprehensive machine learning project demonstrating loan default prediction.          
 
 ## Project Highlights
 - **94% accuracy** with optimized KNN model
