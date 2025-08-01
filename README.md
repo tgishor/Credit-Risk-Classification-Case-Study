@@ -28,3 +28,5 @@ A comprehensive machine learning project demonstrating loan default prediction.
 
 ## Business Impact
 This project demonstrates practical ML skills for financial services, including regulatory compliance considerations and responsible AI implementation.
+
+Git workflow should be updated.
